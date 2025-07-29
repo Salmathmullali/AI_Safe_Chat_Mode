@@ -45,7 +45,7 @@ I think we need a third option — a Private Chat Mode — where AI helps you de
 
 🔸Treat it like a whiteboard: You ask, test, or get help — but it disappears after your session ends.<br><br>
 <h4>Click the below button to see design of private mode </h4><br>
-<a href="https://salmathmullali.github.io/AI_private_chat_mode/" target="_blank" style="text-decoration: none;">
+<a href="https://salmathmullali.github.io/AI_Safe_Chat_Mode/" target="_blank" style="text-decoration: none;">
   <button style="
     background-color: #4CAF50;
     color: white;
