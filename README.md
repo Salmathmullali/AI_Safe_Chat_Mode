@@ -8,7 +8,9 @@ Personally, I use ChatGPT for learning, research, grammar correction, and to tes
 
 Chat history ON – AI uses your data for training.
 
-Chat history OFF – AI doesn't learn, but also loses context and memory between chats.<br><br><img width="1088" height="408" alt="Screenshot 2025-07-28 165350" src="https://github.com/user-attachments/assets/289f6304-1ca5-4cc3-a1d9-7bd1cdc56e01" /><br><img width="1131" height="490" alt="Screenshot 2025-07-28 165442" src="https://github.com/user-attachments/assets/ccc797ef-3f3a-44b4-95fa-dde5e9c03ff0" /><br><img width="1108" height="545" alt="Screenshot 2025-07-28 165759" src="https://github.com/user-attachments/assets/3b28b76b-e646-4eab-b159-0ec7550dde15" /><br><br><br>
+Chat history OFF – AI doesn't learn, but also loses context and memory between chats.<br><br><img width="1088" height="408" alt="Screenshot 2025-07-28 165350" src="https://github.com/user-attachments/assets/289f6304-1ca5-4cc3-a1d9-7bd1cdc56e01" /><br><br>
+<img width="1131" height="490" alt="Screenshot 2025-07-28 165442" src="https://github.com/user-attachments/assets/ccc797ef-3f3a-44b4-95fa-dde5e9c03ff0" /><br><br>
+<img width="1108" height="545" alt="Screenshot 2025-07-28 165759" src="https://github.com/user-attachments/assets/3b28b76b-e646-4eab-b159-0ec7550dde15" /><br><br><br><br>
 
 
 
