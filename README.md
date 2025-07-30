@@ -1,4 +1,4 @@
-Some studies, including ones from MIT, suggest that AI can negatively affect our brain. But these studies mainly focus on people who rely on AI without thinking for themselves. For example, some users ask ChatGPT or similar tools to generate a speech or a project and simply copy-paste the result without understanding it. For those users, overuse of AI may weaken their creativity and problem-solving skills.
+<h2>Why Private Mode ?</h2><br><br>Some studies, including ones from MIT, suggest that AI can negatively affect our brain. But these studies mainly focus on people who rely on AI without thinking for themselves. For example, some users ask ChatGPT or similar tools to generate a speech or a project and simply copy-paste the result without understanding it. For those users, overuse of AI may weaken their creativity and problem-solving skills.
 
 On the other hand, there are users who use AI as a support system — like a friend or mentor — to explore their own ideas. Today, we don’t always need to go through pages of Google search results or forums. If we’re curious, we get answers instantly. In that way, AI acts like a personal Wikipedia.
 
