@@ -1,26 +1,26 @@
 <h2>Why Private Mode ?</h2><br><br>Some studies, including ones from MIT, suggest that AI can negatively affect our brain. But these studies mainly focus on people who rely on AI without thinking for themselves. For example, some users ask ChatGPT or similar tools to generate a speech or a project and simply copy-paste the result without understanding it. For those users, overuse of AI may weaken their creativity and problem-solving skills.
 
-On the other hand, there are users who use AI as a support system — like a friend or mentor — to explore their own ideas. Today, we don’t always need to go through pages of Google search results or forums. If we’re curious, we get answers instantly. In that way, AI acts like a personal Wikipedia.
+On the other hand, there are users who use AI as a support system , like a friend or mentor, to explore their own ideas. Today, we don’t always need to go through pages of Google search results or forums. If we’re curious, we get answers instantly. In that way, AI acts like a personal Wikipedia.
 
-However, there's a serious issue for people who use AI to build original ideas, stories, poems, or projects. Even though these users are creating their own content and just using AI for feedback or suggestions, their conversations may be used to train the model. That means someone else — who simply asks “Give me a project idea” — might receive a response that includes parts of our ideas. Our personal thinking and creative plans could unknowingly become part of someone else's results — even if they didn’t do any creative work.
+However, there's a serious issue for people who use AI to build original ideas, stories, poems, or projects. Even though these users are creating their own content and just using AI for feedback or suggestions, their conversations may be used to train the model. That means someone else, who simply asks “Give me a project idea” might receive a response that includes parts of our ideas. Our personal thinking and creative plans could unknowingly become part of someone else's results. even if they didn’t do any creative work.
 
 Personally, I use ChatGPT for learning, research, grammar correction, and to test my ideas. Right now, ChatGPT only offers two settings:
 
-Chat history ON – AI uses your data for training.
+Chat history ON : AI uses your data for training.
 
-Chat history OFF – AI doesn't learn, but also loses context and memory between chats.<br><br><img width="1088" height="408" alt="Screenshot 2025-07-28 165350" src="https://github.com/user-attachments/assets/289f6304-1ca5-4cc3-a1d9-7bd1cdc56e01" /><br><br>
+Chat history OFF : AI doesn't learn, but also loses context and memory between chats.<br><br><img width="1088" height="408" alt="Screenshot 2025-07-28 165350" src="https://github.com/user-attachments/assets/289f6304-1ca5-4cc3-a1d9-7bd1cdc56e01" /><br><br>
 <img width="1131" height="490" alt="Screenshot 2025-07-28 165442" src="https://github.com/user-attachments/assets/ccc797ef-3f3a-44b4-95fa-dde5e9c03ff0" /><br><br>
 <img width="1108" height="545" alt="Screenshot 2025-07-28 165759" src="https://github.com/user-attachments/assets/3b28b76b-e646-4eab-b159-0ec7550dde15" /><br><br><br><br>
 
 
 
 
-I think we need a third option , a Private Chat Mode — where AI helps you develop your ideas without using them for training. This would protect original thinking while still offering support and guidance.<br><br>
+I think we need a third option , a Private Chat Mode. where AI helps you develop your ideas without using them for training. This would protect original thinking while still offering support and guidance.<br><br>
 There are two main options available in ChatGPT. I'm specifically referring to ChatGPT because it's the one I use most, and many AI tools today follow a similar pattern.<br>
 
-The first option is <h4>Chat History ON</h4>. This is the most useful setting, especially for artists, students, and learners. With chat history on, you can create freely and ask anything. ChatGPT acts like a friend or mentor — it remembers you, your ideas, and your unique projects. So when you return with updates or new thoughts, it can continue the conversation smoothly.<br>
+The first option is <h4>Chat History ON</h4>. This is the most useful setting, especially for artists, students, and learners. With chat history on, you can create freely and ask anything. ChatGPT acts like a friend or mentor, it remembers you, your ideas, and your unique projects. So when you return with updates or new thoughts, it can continue the conversation smoothly.<br>
 
-But the main problem is that ChatGPT stores those ideas and may use them for future training. That means your original thoughts or creative work could be at risk of being reused — unintentionally or not. This setting is great for personal development or education, but it raises concerns about ownership and privacy.<br><br>
+But the main problem is that ChatGPT stores those ideas and may use them for future training. That means your original thoughts or creative work could be at risk of being reused. unintentionally or not. This setting is great for personal development or education, but it raises concerns about ownership and privacy.<br><br>
 
 The second option is <h4>Chat History OFF</h4>. This helps protect your data, as nothing is saved or used for training. However, the issue here is that once the session ends, ChatGPT forgets everything. So if you come back with updated ideas, you have to explain everything again from the beginning. Even if you share a document and say “this is my first idea,” ChatGPT may respond differently than before, because it doesn't remember the context. Each new session feels like you're talking to a different person with different opinions.<br><br>
 
@@ -36,14 +36,14 @@ Artists boycott image-generation AIs because they were trained on art scraped wi
 
 🔸Writers Guild of America (WGA)
 
-Opposed AI-generated scripts in Hollywood negotiations — not only for jobs, but to protect original ideas.
+Opposed AI-generated scripts in Hollywood negotiations, not only for jobs, but to protect original ideas.
 
 🔸TechCrunch & Wired Articles (2023–2024)
 
 Reported on designers, authors, and game developers avoiding AI out of fear their ideas or styles will be absorbed into training data.<br><br>
-<h4>That’s why I believe we need a third option — something I call Private Mode.</h4><br>
+<h4>That’s why I believe we need a third option, something I call Private Mode.</h4><br>
 
-This setting would allow us to use AI with full privacy — no training, no storage, just support and assistance. I believe it's possible to create this. Even though I’m just a beginner, if no one builds it, I’ll try — because I care about people’s privacy and their unique creations.
+This setting would allow us to use AI with full privacy — no training, no storage, just support and assistance. I believe it's possible to create this. Even though I’m just a beginner, if no one builds it, I’ll try. because I care about people’s privacy and their unique creations.
 
 <br><br><h2>Private Mode: Key Benefits & Usage</h2><br>
 🔸Protects Your Ideas and Data
@@ -54,7 +54,7 @@ This setting would allow us to use AI with full privacy — no training, no stor
 
 🔸Ensures Confidentiality
 
-🔸Ideal for private chats — like personal thoughts, emotional discussions, or planning — without saving it in chat history.
+🔸Ideal for private chats. like personal thoughts, emotional discussions, or planning, without saving it in chat history.
 
 🔸No Training from Your Chats
 
@@ -84,7 +84,7 @@ However, even with Private Mode, we can't fully stop people with bad intentions 
 
 That said, platforms like ChatGPT already have strict safety policies and filters in place. Even in Private Mode, the AI should continue blocking requests that promote harmful behavior or spread dangerous information.
 
-So while the risk exists, it can be managed — and shouldn't stop us from creating a safer space for honest, creative users who just want to protect their original ideas.
+So while the risk exists, it can be managed and shouldn't stop us from creating a safer space for honest, creative users who just want to protect their original ideas.
 <br><br><h4>Click the below button to see design of private mode </h4><br>
 <a href="https://salmathmullali.github.io/AI_Safe_Chat_Mode/" target="_blank" style="text-decoration: none;">
   <button style="
