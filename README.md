@@ -80,7 +80,7 @@ This setting would allow us to use AI with full privacy — no training, no stor
 <h3>Potential Risk of Private Mode:</h3><br>
 One concern with Private Mode is that some people might misuse it to ask harmful or illegal questions, knowing their activity won’t be stored. This raises ethical and security concerns.
 
-However, even with Private Mode, we can't fully stop people with bad intentions — just like someone could build dangerous things by reading books or using open internet resources. We can’t change everyone’s mindset.
+However, even with Private Mode, we can't fully stop people with bad intentions, just like someone could build dangerous things by reading books or using open internet resources. We can’t change everyone’s mindset.
 
 That said, platforms like ChatGPT already have strict safety policies and filters in place. Even in Private Mode, the AI should continue blocking requests that promote harmful behavior or spread dangerous information.
 
@@ -103,13 +103,13 @@ So while the risk exists, it can be managed and shouldn't stop us from creating 
 
 
 <br><br><br><h2>Cognitive Risks of AI and Chatbot Overuse</h2><br>
-1. MIT Media Lab Study — “Your Brain on ChatGPT”
+1. MIT Media Lab Study : “Your Brain on ChatGPT”
 Conducted with 54 participants using EEG scans.ChatGPT users showed weaker brain connectivity, reduced memory recall, and less creativity in essays compared to those writing without assistance or using search engines.Over time, reliance on AI tools led to shallower thinking and more formulaic responses.
 
 <br>
 
 2. AI-induced Cognitive Atrophy (AICICA)
-Academic reviews explain how personalized, dynamic AI interactions may reduce user inclination to think deeply.Over time, critical thinking, creativity, and memory may weaken—especially when users lean on AI instead of their own reasoning.
+Academic reviews explain how personalized, dynamic AI interactions may reduce user inclination to think deeply.Over time, critical thinking, creativity, and memory may weaken,especially when users lean on AI instead of their own reasoning.
 
 <br>
 3. MIT / Cornell / Santa Clara Findings on Homogenization
@@ -118,7 +118,7 @@ Frequent AI use may lead to uniform, bland output, suppressing individual creati
 <br>
 <h3>Social and Emotional Downsides</h3>
 4. Emotional Dependence and Loneliness
-A large RCT (981 participants over 4 weeks) found heavy users of chatbots—especially voice-based ones—felt more emotional dependence, less human socialization, and increased loneliness.Teen surveys show many turn to AI companions as friends. While they reduce immediate loneliness, experts caution this may undermine real-world social skills and connection.
+A large RCT (981 participants over 4 weeks) found heavy users of chatbots especially voice-based ones felt more emotional dependence, less human socialization, and increased loneliness.Teen surveys show many turn to AI companions as friends. While they reduce immediate loneliness, experts caution this may undermine real-world social skills and connection.
 
 <br>
 5. “Chatbot Psychosis” & False Beliefs
@@ -126,7 +126,7 @@ Extreme AI use has been linked to rare but serious cases of paranoia, hallucinat
 
 <br>
 6. False Memory Formation
-A controlled study showed that AI chatbots could significantly increase false memories in users—by more than 1.7× compared with surveys or human interviews.
+A controlled study showed that AI chatbots could significantly increase false memories in users by more than 1.7× compared with surveys or human interviews.
 
 <h2>when you start to use any AI with awareness u can get the benefit of using it </h2>
 
@@ -145,15 +145,15 @@ Why it matters: In schools or workplaces, people often fear asking "simple" ques
 Carnegie Mellon study found students were more willing to ask questions and learned better when interacting with AI tutors compared to humans.
 <br>
 3. AI Supports Deeper Learning
-University of Oxford (2021): Students using AI tutors learned faster and asked more thoughtful questions, showing improved critical thinking. AI doesn’t give answers blindly — it can guide people step by step, which helps the brain understand better.
+University of Oxford (2021): Students using AI tutors learned faster and asked more thoughtful questions, showing improved critical thinking. AI doesn’t give answers blindly, it can guide people step by step, which helps the brain understand better.
 <br>
 4. AI Helps with Mental Focus & Problem Solving
 Harvard Business Review (2023): Workers using AI completed tasks 25% faster and reported less mental fatigue. AI reduces "decision overload" and helps focus on important steps, especially in complex problems (like coding or logic-based questions).
 <br>
 5. AI Boosts Confidence and Mental Well-Being
-Johns Hopkins University & World Economic Forum: AI-powered chatbots and writing tools reduced anxiety and boosted self-expression. Many people feel more confident expressing themselves or sharing emotional thoughts with AI — because it's non-judgmental and always listening.
+Johns Hopkins University & World Economic Forum: AI-powered chatbots and writing tools reduced anxiety and boosted self-expression. Many people feel more confident expressing themselves or sharing emotional thoughts with AI, because it's non-judgmental and always listening.
 <br>
-6. AI Empowers Everyone — No Matter Background
+6. AI Empowers Everyone, No Matter Background
 Whether you're a beginner or expert, AI tools give equal access to learning. UNESCO reports that AI tools help students in remote and rural areas gain quality education and creative support.
 <br>
 <h2>How to Use ChatGPT Without Damaging Your Brain or Creativity</h2><br><br>
